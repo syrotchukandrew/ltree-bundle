@@ -4,7 +4,7 @@
   "type" : "symfony-bundle",
   "homepage": "https://github.com/syrotchukandrew/ltree-bundle",
   "license" : "MIT",
-  "keywords" : ["ltree", "postgresql", "symfony", "symfony4", "php73", "php", "nested"],
+  "keywords" : ["ltree", "postgresql", "symfony", "symfony4", "php", "nested"],
   "authors" : [
       {
         "name" : "Veselov Pavel",
@@ -12,7 +12,7 @@
       }
   ],
   "require" : {
-    "php": "^7",
+    "php": "7.*",
     "symfony/orm-pack": "^1.0",
     "symfony/property-access": "4.4.*"
   },
