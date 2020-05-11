@@ -30,5 +30,10 @@
       "allow-contrib": false,
       "require": "4.4.*"
     }
+  },
+  "config": {
+    "platform": {
+      "php": "^7.1.3"
+    }
   }
 }
